@@ -24,26 +24,6 @@ All computation is **receiver-side**, mirroring how real GNSS systems operate.
 
 ## Repository Structure
 
-gnss-end-to-end-system-design/
-├── docs/
-│   ├── gnss-end-to-end-system-design.pdf
-│   └── gps-signal-modulation.pdf
-│
-├── src/
-│   └── com/
-│       └── gsa/
-│           └── gps/
-│               ├── core/
-│               │   ├── GnssPositionSolver.java
-│               │   └── LeastSquaresSolver.java
-│               │
-│               ├── model/
-│               │   ├── ReceiverState.java
-│               │   └── Satellite.java
-│               │
-│               └── Main.java
-│
-└── README.md
 
 <img width="495" height="440" alt="image" src="https://github.com/user-attachments/assets/40baf054-d2c4-4503-ac11-102c2829b29f" />
 
