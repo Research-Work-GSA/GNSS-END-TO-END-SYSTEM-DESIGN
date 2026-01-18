@@ -1,11 +1,3 @@
-Perfect — below is a copy-paste ready README.md written in a calm, senior, EM-grade tone.
-No hype, no buzzwords, no fluff.
-
-You can paste this as-is into GitHub.
-
-⸻
-
-
 # GNSS End-to-End System Design
 
 An end-to-end study of **Global Navigation Satellite Systems (GNSS)** — from satellite architecture and signal modulation to receiver algorithms and a working position solver implementation in Java.
